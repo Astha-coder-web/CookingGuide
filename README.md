@@ -1,1 +1,1 @@
-# CookingGuide
+developed a static web application that helps users explore and locate recipes from various culinary traditions. With its categorized recipe sections, foodeos (food-related videos), teach and learn section, celebrities' favorite section, and many other features, the website offers an engaging experience.# CookingGuide
